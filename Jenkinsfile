@@ -26,6 +26,6 @@
             echo 'Publish a Artifact'
         }
      }
-    }
+
   }
  }
