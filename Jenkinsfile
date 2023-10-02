@@ -1,3 +1,4 @@
-@Library('roboshop)
+@Library('roboshop') _
 
+env.cibuild = "python"
 python()
